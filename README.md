@@ -10,7 +10,7 @@ This repository composes of 2 discrete and 6 continuous optimization problems us
 3. Continuous optimization: [Shifted Sphere Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Sphere%20Function)    
    *Optimize Shifted Sphere Function in different dimensions, 50 and 500, by using Nelson-Mead method from SciPy package*     
    
-4. Continuous optimization: [Shifted Schwefel's Problem 2.21]()       
+4. Continuous optimization: [Shifted Schwefel's Problem 2.21](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Schwefel's%20Problem%202.21)       
    *Optimize Shifted Schwefel's Problem 2.21 in different dimensions, 50 and 500, by using simulated annealing algorithm*    
    
 5. Continuous optimization: Shifted Rosenbrock's Function    
