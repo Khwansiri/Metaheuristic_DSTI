@@ -4,7 +4,7 @@ This repository composes of 2 discrete and 6 continuous optimization problems us
 1. Discrete optimization: [TSP_Djibouti](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/TSP_Djibouti)    
    *Optimized travelling saleman problem of 38 cities in Djibouti by using simulated annealing algorithm*      
    
-2. Discrete optimization: TSP_Qatar    
+2. Discrete optimization: [TSP_Qatar](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/TSP_Qatar)      
    *Travelling saleman problem of 194 cities in Qatar by using simulated annealing algorithm*      
    
 3. Continuous optimization: Shifted Sphere Function     
