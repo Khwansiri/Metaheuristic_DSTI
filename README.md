@@ -1,7 +1,7 @@
 # DSTI's Metaheuristic Assignment   
 This repository composes of 2 discrete and 6 continuous optimization problems using different metaheuristic algorithms as follow: 
 
-1. Discrete optimization: [TSP_Djibouti](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/TSP_Djibouti)
+1. Discrete optimization: [TSP_Djibouti](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/TSP_Djibouti)    
    *Optimized travelling saleman problem of 38 cities in Djibouti by using simulated annealing algorithm*      
    
 2. Discrete optimization: TSP_Qatar    
