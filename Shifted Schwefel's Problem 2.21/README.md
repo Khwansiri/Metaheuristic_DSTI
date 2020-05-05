@@ -15,7 +15,9 @@
   Factor for step size reduction = 0.1 
 
 - ### The fitness   
-  -261.025
+  Dimension 50: -261.025  
+  Dimension 500: -258.627
 
 - ### The computational time  
-  0.302 seconds
+  Dimension 50: 0.302 seconds  
+  Dimension 500: 2.138 seconds
