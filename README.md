@@ -7,7 +7,7 @@ This repository composes of 2 discrete and 6 continuous optimization problems us
 2. Discrete optimization: [TSP_Qatar](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/TSP_Qatar)      
    *Travelling saleman problem of 194 cities in Qatar by using simulated annealing algorithm*      
    
-3. Continuous optimization: [Shifted Sphere Function] (https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Sphere%20Function)    
+3. Continuous optimization: [Shifted Sphere Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Sphere%20Function)    
    *Optimize Shifted Sphere Function in different dimensions, 50 and 500, by using Nelson-Mead method from SciPy package*     
    
 4. Continuous optimization: [Shifted Schwefel's Problem 2.21]()       
