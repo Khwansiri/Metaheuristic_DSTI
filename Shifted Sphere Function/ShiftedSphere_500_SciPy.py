@@ -1,5 +1,5 @@
-# Shifted Sphere Function
-# Nelder-Mead method from SciPy package
+# Shifted Sphere Function: Dimension 500
+# Broyden-Fletcher-Goldfarb-Shanno method from SciPy package
 
 import numpy as np
 from scipy.optimize import minimize
