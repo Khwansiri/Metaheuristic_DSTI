@@ -1,4 +1,4 @@
-# Shifted Rosenbrock's Function: Dimension 50
+# Shifted Rastrigin's Function: Dimension 500
 # Evolutionary algorithm (EA) with Global Discrete Strategy
 
 from matplotlib import pyplot as plt
