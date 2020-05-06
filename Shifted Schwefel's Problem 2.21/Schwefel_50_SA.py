@@ -23,7 +23,7 @@ x = np.random.uniform(-100,100,50)
 def Obj_func(x_array = x, schwefel_list = schwefel, dimension = D, bias = f_bias):
     Obj_func = []
     abs_val = 0
-    for i in range(0,dimension) :    
+    for i in range(1,dimension) :    
         abs_val = abs(x_array[i]-schwefel_list[i])
         Obj_func.append(abs_val)
         i += 1
