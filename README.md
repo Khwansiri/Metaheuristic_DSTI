@@ -16,7 +16,7 @@ This repository composes of 2 discrete and 6 continuous optimization problems us
 5. Continuous optimization: [Shifted Rosenbrock's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Rosenbrock's%20Function)    
    *Optimize Shifted Rosenbrock's Function in different dimensions, 50 and 500, by using evolutionary algorithm (EA) with global discrete strategy*     
    
-6. Continuous optimization: Shifted Rastrigin's Function    
+6. Continuous optimization: [Shifted Rastrigin's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Rastrigin's%20Function)    
    *Optimize Shifted Rastrigin's Function in different dimensions, 50 and 500,by using evolutionary algorithm (EA) with global discrete strategy*     
 7. Continuous optimization: Shifted Griewank's Function    
    *Optimize Shifted Griewank's Function in different dimensions, 50 and 500*     
