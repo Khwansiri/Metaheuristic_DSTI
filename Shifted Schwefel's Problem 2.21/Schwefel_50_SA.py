@@ -20,7 +20,7 @@ x = np.random.uniform(-100,100,D)
 
 
 # Objective function with default parameters as mentioned above
-def Obj_func(x_array = x, schwefel_list = schwefel, dimension = D, bias = f_bias):
+def Obj_func(x_array, schwefel_list = schwefel, dimension = D, bias = f_bias):
     Obj_func = []
     abs_val = 0
     for i in range(1,dimension) :    
