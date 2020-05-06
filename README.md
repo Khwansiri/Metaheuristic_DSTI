@@ -14,11 +14,10 @@ This repository composes of 2 discrete and 6 continuous optimization problems us
    *Optimize Shifted Schwefel's Problem 2.21 in different dimensions, 50 and 500, by using simulated annealing algorithm*    
    
 5. Continuous optimization: [Shifted Rosenbrock's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Rosenbrock's%20Function)    
-   *Optimize Shifted Rosenbrock's Function in different dimensions, 50 and 500*     
+   *Optimize Shifted Rosenbrock's Function in different dimensions, 50 and 500, by using Evolutionary algorithm (EA) with Global Discrete Strategy*     
    
 6. Continuous optimization: Shifted Rastrigin's Function    
-   *Optimize Shifted Rastrigin's Function in different dimensions, 50 and 500*     
-   
+   *Optimize Shifted Rastrigin's Function in different dimensions, 50 and 500,by using Evolutionary algorithm (EA) with Global Discrete Strategy*     
 7. Continuous optimization: Shifted Griewank's Function    
    *Optimize Shifted Griewank's Function in different dimensions, 50 and 500*     
    
