@@ -16,7 +16,7 @@ schwefel = [
 ]
 f_bias = -450
 D = 50  # Dimension
-x = np.random.uniform(-100,100,50) 
+x = np.random.uniform(-100,100,D) 
 
 
 # Objective function with default parameters as mentioned above
