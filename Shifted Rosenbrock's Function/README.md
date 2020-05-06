@@ -9,7 +9,7 @@
 [Shifts](https://github.com/Khwansiri/Metaheuristic_DSTI/blob/master/Shifted%20Sphere%20Function/data.h)    
 
 - ### The chosen algorithm       
-  Evolutionary algorithm with Global Discrete Strategy
+  Evolutionary Algorithm with Global Discrete Strategy
   
   
   <img src="https://user-images.githubusercontent.com/57988473/81186672-5d922c00-8fb3-11ea-99b6-887b3a503dbb.png" width="700">   
