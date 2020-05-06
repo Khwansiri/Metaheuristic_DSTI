@@ -234,7 +234,6 @@ print()
 print("Final_Best:",Final_Best)
 print()
 
-print("The Lowest Value is:", Best_in_All[0])
 
 print("The Lowest Value is:",Final_Best[:,0])
 
