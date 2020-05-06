@@ -1,4 +1,4 @@
-# Shifted Sphere Function
+# Shifted Sphere Function: Dimension 50
 # Nelder-Mead method from SciPy package
 
 import numpy as np
