@@ -1,5 +1,5 @@
 # Travelling Salesman Problem with Simulated Annealing Algorithm
-# Djibouti 38 cities
+# Qatar 194 cities
 
 from matplotlib import pyplot as plt
 import pandas as pd
