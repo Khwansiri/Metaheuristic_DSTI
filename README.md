@@ -19,9 +19,9 @@ This repository composes of 2 discrete and 6 continuous optimization problems us
 6. Continuous optimization: [Shifted Rastrigin's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Rastrigin's%20Function)    
    *Optimize Shifted Rastrigin's Function in different dimensions, 50 and 500,by using evolutionary algorithm (EA) with global discrete strategy*     
    
-7. Continuous optimization: Shifted Griewank's Function    
+7. Continuous optimization: [Shifted Griewank's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Griewank's%20Function)       
    *Optimize Shifted Griewank's Function in different dimensions, 50 and 500, by using SciPy package*     
    
-8. Continuous optimization: Shifted Ackley's Function    
+8. Continuous optimization: [Shifted Ackley's Function]()    
    *Optimize Shifted Ackley's Function  in different dimensions, 50 and 500, by using SciPy package* 
  
