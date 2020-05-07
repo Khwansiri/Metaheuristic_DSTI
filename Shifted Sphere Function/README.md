@@ -9,19 +9,20 @@
 [Shifts](https://github.com/Khwansiri/Metaheuristic_DSTI/blob/master/Shifted%20Sphere%20Function/data.h)    
 
 - ### The chosen algorithm       
-Dimension 50  :   Nelson-Mead method from SciPy package   
-Dimension 500 :   Broyden-Fletcher-Goldfarb-Shanno method from SciPy package   
+Particle Swarm Optimization  
 
 - ###	The parameters of the algorithm  
-Tolerance for termination: 1e-4      
+Inertia weight = 0.4
+Cognitive constant  = 1.5
+Social constant = 2 
 
 - ### The fitness  
-Dimension 50  :   -450  
-Dimension 500 :   -450    
+Dimension 50  :   -900    
+Dimension 500 :   -900      
 
 - ###	The computational time   
-Dimension 50   :   0.68    seconds   
-Dimension 500  :   1.66    seconds  
+Dimension 50   :   0.104    seconds   
+Dimension 500  :   1.625    seconds  
  
 
 
