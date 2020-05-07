@@ -237,9 +237,6 @@ print()
 
 print("The Lowest Value is:", Best_in_All[0])
 
-print("The Lowest Value is:",Final_Best[:,0])
-
-
 
 plt.plot(Keep_the_Best_Child_Safe[:,0])
 plt.title("Shifted Rastrigin's Function",fontsize=20,fontweight='bold')
