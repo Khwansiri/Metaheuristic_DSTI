@@ -11,10 +11,13 @@
 - ### The chosen algorithm       
 Particle Swarm Optimization  
 
+<image src = "https://user-images.githubusercontent.com/57988473/81313683-7b7d9080-9088-11ea-8f20-46236acbe0e5.png" width = "500">
+
+
 - ###	The parameters of the algorithm  
-Inertia weight = 0.4
-Cognitive constant  = 1.5
-Social constant = 2 
+Inertia weight = 0.4   
+Cognitive constant  = 1.5   
+Social constant = 2    
 
 - ### The fitness  
 Dimension 50  :   -900    
