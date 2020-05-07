@@ -1,4 +1,4 @@
-# Schwefel's Problem
+# Schwefel's Problem: Dimension 50
 # Simuated Annealing Algorithm (SA)
 
 from matplotlib import pyplot as plt
