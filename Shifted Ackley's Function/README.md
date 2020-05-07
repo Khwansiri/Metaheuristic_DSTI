@@ -1,7 +1,7 @@
 # Continuous Optimization (dimension 50 and 500)
 ## F5: Shifted Griewank's Function   
 
-<image src = "https://user-images.githubusercontent.com/57988473/81316383-c8af3180-908b-11ea-9924-e8b141cb6d00.png" width = "600">
+<image src = "https://user-images.githubusercontent.com/57988473/81316383-c8af3180-908b-11ea-9924-e8b141cb6d00.png" width = "700">
 
 - ### Additional information  
 [Function Description](https://github.com/Khwansiri/Metaheuristic_DSTI/blob/master/Shifted%20Sphere%20Function/CEC2008_TechnicalReport.pdf)    
