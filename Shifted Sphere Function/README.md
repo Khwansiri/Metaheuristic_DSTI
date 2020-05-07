@@ -12,6 +12,9 @@
 Particle Swarm Optimization  
 
 <image src = "https://user-images.githubusercontent.com/57988473/81313683-7b7d9080-9088-11ea-8f20-46236acbe0e5.png" width = "500">
+ 
+ 
+ *Ref:  https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/*
 
 
 - ###	The parameters of the algorithm  
