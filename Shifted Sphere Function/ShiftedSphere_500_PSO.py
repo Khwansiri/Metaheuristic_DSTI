@@ -124,9 +124,9 @@ upper_bound =  100
 def Obj_func(x_array, sphere_list = sphere , dimension = D, bias = f_bias):
     Obj_func = 0
     for i in range(0,dimension) :
-        Obj_func = (x_array[i]-sphere_list[i])**2 + bias
+        Obj_func = (x_array[i]-sphere_list[i])**2 
         Obj_func += Obj_func
-    return Obj_func
+    return Obj_func + bias
 
 
 
